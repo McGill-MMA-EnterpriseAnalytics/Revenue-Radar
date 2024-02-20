@@ -1,7 +1,23 @@
+# Framing the Problem
 ## Business Context
 The Google March Shop is Google's ecommerce site offering branded-merchandise across various product categories such as apparel, lifestyle, and stationery. The brands represented include Google and google applications (e.g. Google Maps) as well as additional titles* such as Youtube and Android.
 
 [Something about the purpose of such stores for big brands. Revenue always important but obviously not a large revenue driver so there would be other reasons for doing it]
+
+## The Objective
+1) Uncover the differences in the buyer's journey for users who convert and who do not, determine where to prioritize marketing spend to boost conversions
+2) Enable forecasting of expected conversions on a rolling basis based on data from 3-months-to-date
+
+
+### Variables of Interest at User Level
+visitorid, 1st visit channel, last visit channel, total number of visits, # of visits organic search / social/ direct/ referral/ paid search / affiliates / display / other, continent, subcontinent, country,  # of visits per device category, total hits OR total page views, first session hits OR first session page views, campaign vs not binary 
+
+
+
+
+
+
+# Rough Work
 
 ## Hypotheses
 1. There is a difference between the buyers journey of customers who convert and do not convert in terms of the marketing channels they interact with
@@ -18,9 +34,6 @@ The Google March Shop is Google's ecommerce site offering branded-merchandise ac
 ## What exactly are we building that would go into production?
 1) A tool which analyzes the data as at this time to predict number of conversions expected within the next month? not sure how to really think of the time horizon detail. 
 
-
-
-## Rough Work
 
 ### Findings from Research
 Business would be interested in heuristics like
