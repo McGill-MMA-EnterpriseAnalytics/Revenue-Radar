@@ -8,10 +8,15 @@ The Google March Shop is Google's ecommerce site offering branded-merchandise ac
 2. There is a difference between the buyers jounrey of customers in North America / outside of it? (think i need more EDA before saying something like this)
 
 ## Business Objective of Conversion Analytics Initiative
+[What are the top conversion paths?]
 [Multichannel attribution, optimizing cost per conversion / cost per conversion]
 [Understanding buyer's jounrey / profile of users that convert]
 [How would creating a predictive model differ from simply doing descriptive statistics?]
+[How can we get some of these customers who aren't converting to convert? Who are the customers at the tipping point and how can we get them to purchase? Can bolster this with some research about repeat purchase probabilities or something]
 
+
+## What exactly are we building that would go into production?
+1) A tool which analyzes the data as at this time to predict number of conversions expected within the next month? not sure how to really think of the time horizon detail. 
 
 
 
@@ -23,6 +28,8 @@ Business would be interested in heuristics like
 * We could transform the dataset to make it per user. Create features for number of visits as at end of observation, first visit channel, last visit channel, binary for if a given channel was used 
 * High vs low value question? (as opposed to regression or simple binary classification i guess)
 * Could we use Markov chains? Create transition matrix? Except that may not apply since the "conversion" state may never occur, right?
+* Could we try that representative sampling based on clustering that we saw in class? Could turn it into kmeans
+* Need some meaningful grouping for stuff like region, etc.
 
 
 
