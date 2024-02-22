@@ -32,7 +32,9 @@ Findings from explainable prediction models over the data science journey toward
 ### Measuring Performance
 The performance of the classification model should be measured by F1 score followed by Brier score. 
 
-[WIP]
+F1 score is selected over accuracy given the imbalanced classes and the positive class, conversion, being more important to ascertain. In line with the aim of this initiative to minimize ad spend while driving conversions, the harmonic mean of precision and recall is preferrable to assigning greater weight to either. 
+
+To select between models demonstrating similar F1 scores, Brier scores should be used to distinguish which of them predicts more confidently. Given the imbalanced dataset, Brier score is more suitable for assessing this confidence level than log loss. 
 
 
 
