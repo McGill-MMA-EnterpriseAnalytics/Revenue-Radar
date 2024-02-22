@@ -36,6 +36,14 @@ F1 score is selected over accuracy given the imbalanced classes and the positive
 
 To select between models demonstrating similar F1 scores, Brier scores should be used to distinguish which of them predicts more confidently. Given the imbalanced dataset, Brier score is more suitable for assessing this confidence level than log loss. 
 
+For inclusion in the consideration set, the model should achieve an F1 score 20* percentage points higher than the current rule-based targeting derived from descriptive statistics specified below
+•	Continent = Americas
+•	Device = Desktop
+•	Page views on first session >= 16 (median)
+
+For the initiative to have met the business objective, (WIP – ROI measurement)
+
+
 
 
 
