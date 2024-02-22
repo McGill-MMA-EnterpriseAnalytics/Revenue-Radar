@@ -43,8 +43,7 @@ For inclusion in the consideration set, the model should achieve an F1 score 20*
 
 For the initiative to have met the business objective, **(WIP – ROI measurement)**
 
-### Hypotheses about the User Journey
-In relation to the subobjective of increasing understanding of the user journey 
+
 
 
 
