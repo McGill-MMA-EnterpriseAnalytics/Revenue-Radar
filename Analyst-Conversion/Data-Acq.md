@@ -4,7 +4,7 @@ The available dataset is at session level, with some users appearing multiple ti
 This dataset can be used for data exploration at the user journey level. It is understood that not all features can, or should, be included in the eventual model. Rather it will serve as a starting point for feature selection and any potential further feature engineering. 
 
 
-Features
+**Features**
 * VisitorID
 * Channel of 1st visit
 * Channel of last visit
@@ -18,8 +18,8 @@ Features
 * Total Page Views
 * First Session Hits
 * First Session Page Views
-* Last Session Hits (doublecheck )
-* Last Session Page Views (doublecheck )
-* Number of Campaign Visits (doublecheck )
+* Last Session Hits
+* Last Session Page Views 
+* Number of Campaign Visits 
 
 

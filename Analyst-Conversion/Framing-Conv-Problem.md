@@ -27,9 +27,9 @@ The supervised prediction model should output the expected probability, which sh
 The model should be trained and maintained via offline batch learning as this option is more cost effective and fitting for an initiative that is geared toward marketing cost optimization.  
 
 **Increase understanding of the user journey for customers who convert**
-Findings from explainable prediction models over the data science journey towards the conversion prediction model should be collated to help drive prioritization across investments in marketing channels as well as site UX improvements by device. It may also be used to drive further data science initiatives. 
+As a secondary objective: findings from explainable prediction models over the data science journey towards the conversion prediction model should be collated to help drive prioritization across investments in marketing channels as well as site UX improvements by device. These findings may also be used to drive further data science initiatives (**may take this sentence out**). 
 
-### Measuring Performance
+### Measuring Performance of Predictive Model 
 The performance of the classification model should be measured by F1 score followed by Brier score. 
 
 F1 score is selected over accuracy given the imbalanced classes and the positive class, conversion, being more important to ascertain. In line with the aim of this initiative to minimize ad spend while driving conversions, the harmonic mean of precision and recall is preferrable to assigning greater weight to either. 
@@ -41,7 +41,12 @@ For inclusion in the consideration set, the model should achieve an F1 score 20*
 * Device = Desktop
 * Page views on first session >= 16 (median)
 
-For the initiative to have met the business objective, (WIP – ROI measurement)
+For the initiative to have met the business objective, **(WIP – ROI measurement)**
+
+### Hypotheses about the User Journey
+In relation to the subobjective of increasing understanding of the user journey 
+
+
 
 
 
