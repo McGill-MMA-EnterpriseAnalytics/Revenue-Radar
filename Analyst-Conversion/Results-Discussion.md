@@ -1,5 +1,5 @@
 ## Results from Customer Conversion Data Science Initiative
-The final model produced by the data science team achieved an 8 percentage point increase in F1 score over the baseline rule-based targetting system. It is able to better discern users who are likely to convert while still casting a sufficiently wide net. For the GStore, this will mean a reduced cost per conversion - achieving more sales than before for a given ad spend. 
+The final model produced by the data science team achieved an 8 percentage-point increase in F1 score over the baseline rule-based targeting system. It is able to better discern users who are likely to convert while still casting a sufficiently wide net. For the GStore, this will mean a reduced cost per conversion - achieving more sales than before for a given ad spend. 
 
 [results image once images folder set up]
 
