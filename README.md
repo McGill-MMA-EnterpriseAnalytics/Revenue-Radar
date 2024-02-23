@@ -6,63 +6,6 @@ Our dataset contains transaction data from individual visits to the GStore betwe
 
 The original dataset is available here: https://www.kaggle.com/competitions/ga-customer-revenue-prediction/data?select=train_v2.csv
 
-Originally stored as a JSON file, after transformation, these were the columns available in the dataset:
-
-- `channelGrouping`
-- `date`
-- `fullVisitorId`
-- `sessionId`
-- `socialEngagementType`
-- `visitId`
-- `visitNumber`
-- `visitStartTime`
-- `continent`
-- `subContinent`
-- `country`
-- `region`
-- `metro`
-- `city`
-- `cityId`
-- `networkDomain`
-- `latitude`
-- `longitude`
-- `networkLocation`
-- `browser`
-- `browserVersion`
-- `browserSize`
-- `operatingSystem`
-- `operatingSystemVersion`
-- `isMobile`
-- `mobileDeviceBranding`
-- `mobileDeviceModel`
-- `mobileInputSelector`
-- `mobileDeviceInfo`
-- `mobileDeviceMarketingName`
-- `flashVersion`
-- `language`
-- `screenColors`
-- `screenResolution`
-- `deviceCategory`
-- `visits`
-- `hits`
-- `pageviews`
-- `bounces`
-- `newVisits`
-- `transactionRevenue`
-- `campaign`
-- `source`
-- `medium`
-- `keyword`
-- `adwordsClickInfo.criteriaParameters`
-- `isTrueDirect`
-- `referralPath`
-- `adwordsClickInfo.page`
-- `adwordsClickInfo.slot`
-- `adwordsClickInfo.gclId`
-- `adwordsClickInfo.adNetworkType`
-- `adwordsClickInfo.isVideoAd`
-- `adContent`
-- `campaignCode`
 
 ## Project Goals
 
@@ -130,3 +73,65 @@ To facilitate transaction-level analysis, the dataset was filtered for sessions 
 Columns were excluded based on proportions of missing data and use case relevance.
 
 See the code file in the respective labeled folder for more details on preprocessing.
+
+-- 
+
+## Data Dictionary
+
+Originally stored as a JSON file, after transformation, these were the columns available in the dataset:
+
+- `channelGrouping`
+- `date`
+- `fullVisitorId`
+- `sessionId`
+- `socialEngagementType`
+- `visitId`
+- `visitNumber`
+- `visitStartTime`
+- `continent`
+- `subContinent`
+- `country`
+- `region`
+- `metro`
+- `city`
+- `cityId`
+- `networkDomain`
+- `latitude`
+- `longitude`
+- `networkLocation`
+- `browser`
+- `browserVersion`
+- `browserSize`
+- `operatingSystem`
+- `operatingSystemVersion`
+- `isMobile`
+- `mobileDeviceBranding`
+- `mobileDeviceModel`
+- `mobileInputSelector`
+- `mobileDeviceInfo`
+- `mobileDeviceMarketingName`
+- `flashVersion`
+- `language`
+- `screenColors`
+- `screenResolution`
+- `deviceCategory`
+- `visits`
+- `hits`
+- `pageviews`
+- `bounces`
+- `newVisits`
+- `transactionRevenue`
+- `campaign`
+- `source`
+- `medium`
+- `keyword`
+- `adwordsClickInfo.criteriaParameters`
+- `isTrueDirect`
+- `referralPath`
+- `adwordsClickInfo.page`
+- `adwordsClickInfo.slot`
+- `adwordsClickInfo.gclId`
+- `adwordsClickInfo.adNetworkType`
+- `adwordsClickInfo.isVideoAd`
+- `adContent`
+- `campaignCode`
