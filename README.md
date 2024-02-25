@@ -1,5 +1,14 @@
 # Revenue Radar
 ![Revenue Radar](Images/logo_dark_mode.png)
+
+## Team Members
+- Abdulrahman Aroworamimo
+- Ammad Sohail
+- Angel Oluwole-Rotimi
+- Rodrigo Castro
+- Xinghen Luo
+- Yvan Kammelu
+
 ## Dataset Overview
 
 Our dataset contains transaction data from individual visits to the GStore between December 1st, 2018, and January 31st, 2019. Each line in our dataset represents a visit to the store.
