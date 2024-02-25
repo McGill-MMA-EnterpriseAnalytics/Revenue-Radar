@@ -6,7 +6,7 @@
 - Ammad Sohail
 - Angel Oluwole-Rotimi
 - Rodrigo Castro
-- Xinghen Luo
+- Xingchen Luo
 - Yvan Kammelu
 
 ## Dataset Overview
