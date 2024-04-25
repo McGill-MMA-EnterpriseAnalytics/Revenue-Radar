@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/c06ba5b0d7554563a92cb9f482507f11/artifacts
+deleted_time: 1713998035754
+end_time: 1713997435776
+entry_point_name: ''
+experiment_id: '683768994719307234'
+lifecycle_stage: deleted
+run_id: c06ba5b0d7554563a92cb9f482507f11
+run_name: XGBoost Model with threshold
+run_uuid: c06ba5b0d7554563a92cb9f482507f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713997434298
+status: 3
+tags: []
+user_id: tashf

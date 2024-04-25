@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/735752542143376957/c2d43a530697460bbe19567b090ce98c/artifacts
+deleted_time: 1713966496399
+end_time: 1713966415643
+entry_point_name: ''
+experiment_id: '735752542143376957'
+lifecycle_stage: deleted
+run_id: c2d43a530697460bbe19567b090ce98c
+run_name: Optimal Logistic Regression Model
+run_uuid: c2d43a530697460bbe19567b090ce98c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713966404097
+status: 3
+tags: []
+user_id: tashf

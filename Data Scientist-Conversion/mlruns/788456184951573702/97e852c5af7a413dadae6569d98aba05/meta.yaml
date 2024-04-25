@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/788456184951573702/97e852c5af7a413dadae6569d98aba05/artifacts
+end_time: 1713982050356
+entry_point_name: ''
+experiment_id: '788456184951573702'
+lifecycle_stage: active
+run_id: 97e852c5af7a413dadae6569d98aba05
+run_name: Optimal UnderSampled Logistic Regression Model
+run_uuid: 97e852c5af7a413dadae6569d98aba05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713982040374
+status: 3
+tags: []
+user_id: tashf

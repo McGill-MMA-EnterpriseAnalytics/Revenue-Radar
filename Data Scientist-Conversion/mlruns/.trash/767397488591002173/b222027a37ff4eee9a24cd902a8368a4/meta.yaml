@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/767397488591002173/b222027a37ff4eee9a24cd902a8368a4/artifacts
+deleted_time: 1713996332781
+end_time: 1713996011287
+entry_point_name: ''
+experiment_id: '767397488591002173'
+lifecycle_stage: deleted
+run_id: b222027a37ff4eee9a24cd902a8368a4
+run_name: Stacking Classifier with Threshold
+run_uuid: b222027a37ff4eee9a24cd902a8368a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713996011153
+status: 4
+tags: []
+user_id: tashf

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/2cd33e8df09a4f679c6e576cdfa1b2a3/artifacts
+deleted_time: 1713992080325
+end_time: 1713991764387
+entry_point_name: ''
+experiment_id: '683768994719307234'
+lifecycle_stage: deleted
+run_id: 2cd33e8df09a4f679c6e576cdfa1b2a3
+run_name: Random Forest Model Optimization
+run_uuid: 2cd33e8df09a4f679c6e576cdfa1b2a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713991664213
+status: 3
+tags: []
+user_id: tashf

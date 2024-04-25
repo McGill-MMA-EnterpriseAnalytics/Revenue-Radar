@@ -1,0 +1,93 @@
+{
+    "train": {
+        "num_samples": 485464,
+        "num_features": 65,
+        "feature_names": [
+            "TotalBounces",
+            "Organic Search",
+            "Social",
+            "Direct",
+            "Paid Search",
+            "Referral",
+            "Affiliates",
+            "Display",
+            "(Other)",
+            "desktop",
+            "mobile",
+            "tablet",
+            "FirstSessionPageviews",
+            "CampaignVisits",
+            "isTrueDirect",
+            "AdContentVisits",
+            "Source_PC1",
+            "Source_PC2",
+            "Source_PC3",
+            "UserEngagementDepth",
+            "ClusterLabel",
+            "country_PC1",
+            "country_PC2",
+            "country_PC3",
+            "FirstChannelVisit_Affiliates",
+            "FirstChannelVisit_Direct",
+            "FirstChannelVisit_Display",
+            "FirstChannelVisit_Organic Search",
+            "FirstChannelVisit_Paid Search",
+            "FirstChannelVisit_Referral",
+            "FirstChannelVisit_Social",
+            "LastChannelVisit_Affiliates",
+            "LastChannelVisit_Direct",
+            "LastChannelVisit_Display",
+            "LastChannelVisit_Organic Search",
+            "LastChannelVisit_Paid Search",
+            "LastChannelVisit_Referral",
+            "LastChannelVisit_Social",
+            "continent_Africa",
+            "continent_Americas",
+            "continent_Asia",
+            "continent_Europe",
+            "continent_Oceania",
+            "subContinent_Australasia",
+            "subContinent_Caribbean",
+            "subContinent_Central America",
+            "subContinent_Central Asia",
+            "subContinent_Eastern Africa",
+            "subContinent_Eastern Asia",
+            "subContinent_Eastern Europe",
+            "subContinent_Melanesia",
+            "subContinent_Micronesian Region",
+            "subContinent_Middle Africa",
+            "subContinent_Northern Africa",
+            "subContinent_Northern America",
+            "subContinent_Northern Europe",
+            "subContinent_Polynesia",
+            "subContinent_South America",
+            "subContinent_Southeast Asia",
+            "subContinent_Southern Africa",
+            "subContinent_Southern Asia",
+            "subContinent_Southern Europe",
+            "subContinent_Western Africa",
+            "subContinent_Western Asia",
+            "subContinent_Western Europe"
+        ],
+        "class_distribution": {
+            "0": 478973,
+            "1": 6491
+        }
+    },
+    "validation": {
+        "num_samples": 85206,
+        "num_features": 65,
+        "class_distribution": {
+            "0": 84092,
+            "1": 1114
+        }
+    },
+    "test": {
+        "num_samples": 161782,
+        "num_features": 65,
+        "class_distribution": {
+            "0": 158911,
+            "1": 2871
+        }
+    }
+}

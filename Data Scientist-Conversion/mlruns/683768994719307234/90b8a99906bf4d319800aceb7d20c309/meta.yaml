@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/90b8a99906bf4d319800aceb7d20c309/artifacts
+end_time: 1713994307664
+entry_point_name: ''
+experiment_id: '683768994719307234'
+lifecycle_stage: active
+run_id: 90b8a99906bf4d319800aceb7d20c309
+run_name: Stacking Classifier Optimization without threshold
+run_uuid: 90b8a99906bf4d319800aceb7d20c309
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713994210848
+status: 3
+tags: []
+user_id: tashf

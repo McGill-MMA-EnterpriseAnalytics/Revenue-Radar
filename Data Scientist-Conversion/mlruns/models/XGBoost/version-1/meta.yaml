@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713998321892
+current_stage: None
+description: ''
+last_updated_timestamp: 1713998321892
+name: XGBoost
+run_id: 195f88d9d00b46eba6c88330662a6281
+run_link: ''
+source: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/195f88d9d00b46eba6c88330662a6281/artifacts/xgboost_model
+status: READY
+status_message: null
+storage_location: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/195f88d9d00b46eba6c88330662a6281/artifacts/xgboost_model
+user_id: null
+version: 1

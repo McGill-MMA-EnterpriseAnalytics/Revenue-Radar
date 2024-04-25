@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/289332997694225772/29e0372fe43e4cbbaee66e3e9d391b6a/artifacts
+deleted_time: 1713988171812
+end_time: 1713987871933
+entry_point_name: ''
+experiment_id: '289332997694225772'
+lifecycle_stage: deleted
+run_id: 29e0372fe43e4cbbaee66e3e9d391b6a
+run_name: Logistic Regression Model Recall
+run_uuid: 29e0372fe43e4cbbaee66e3e9d391b6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713987871797
+status: 3
+tags: []
+user_id: tashf

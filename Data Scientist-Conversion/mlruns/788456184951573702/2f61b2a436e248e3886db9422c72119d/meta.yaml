@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/788456184951573702/2f61b2a436e248e3886db9422c72119d/artifacts
+end_time: 1713989620249
+entry_point_name: ''
+experiment_id: '788456184951573702'
+lifecycle_stage: active
+run_id: 2f61b2a436e248e3886db9422c72119d
+run_name: Optimal UnderSampled Logistic Regression Model F1_score and Precision
+run_uuid: 2f61b2a436e248e3886db9422c72119d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713989611282
+status: 3
+tags: []
+user_id: tashf

@@ -1,0 +1,48 @@
+{
+    "train": {
+        "num_samples": 12982,
+        "num_features": 20,
+        "feature_names": [
+            "UserEngagementDepth",
+            "country_PC1",
+            "Cluster_5",
+            "FirstSessionPageviews",
+            "country_PC2",
+            "desktop",
+            "continent_Americas",
+            "isTrueDirect",
+            "country_PC3",
+            "subContinent_Northern America",
+            "Source_PC3",
+            "Source_PC2",
+            "FirstChannelVisit_Social",
+            "Cluster_1",
+            "Referral",
+            "Source_PC1",
+            "LastChannelVisit_Social",
+            "LastChannelVisit_Referral",
+            "TotalBounces",
+            "Organic Search"
+        ],
+        "class_distribution": {
+            "0": 6491,
+            "1": 6491
+        }
+    },
+    "validation": {
+        "num_samples": 85206,
+        "num_features": 20,
+        "class_distribution": {
+            "0": 84092,
+            "1": 1114
+        }
+    },
+    "test": {
+        "num_samples": 161782,
+        "num_features": 20,
+        "class_distribution": {
+            "0": 158911,
+            "1": 2871
+        }
+    }
+}

@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/602294485938658580/1a0a043e348c4fde839f61e9b901d59d/artifacts
+deleted_time: 1713995858063
+end_time: 1713995739250
+entry_point_name: ''
+experiment_id: '602294485938658580'
+lifecycle_stage: deleted
+run_id: 1a0a043e348c4fde839f61e9b901d59d
+run_name: XGBoost Model Optimization
+run_uuid: 1a0a043e348c4fde839f61e9b901d59d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995737322
+status: 3
+tags: []
+user_id: tashf

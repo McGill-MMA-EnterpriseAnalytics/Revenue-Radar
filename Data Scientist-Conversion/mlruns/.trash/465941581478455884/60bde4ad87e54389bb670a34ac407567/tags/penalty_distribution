@@ -1,0 +1,1 @@
+CategoricalDistribution(choices=('l1', 'l2', 'elasticnet'))

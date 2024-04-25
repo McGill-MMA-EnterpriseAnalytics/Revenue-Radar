@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/683768994719307234/145964ef9db04095943dd2f59d687ba0/artifacts
+deleted_time: 1713995774013
+end_time: 1713995718130
+entry_point_name: ''
+experiment_id: '683768994719307234'
+lifecycle_stage: deleted
+run_id: 145964ef9db04095943dd2f59d687ba0
+run_name: Random Forest Model with Threshold
+run_uuid: 145964ef9db04095943dd2f59d687ba0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713995663486
+status: 3
+tags: []
+user_id: tashf

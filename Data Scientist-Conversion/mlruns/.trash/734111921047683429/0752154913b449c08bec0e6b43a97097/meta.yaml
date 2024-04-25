@@ -1,0 +1,16 @@
+artifact_uri: file:///d:/Google%20Drive/McGill/Winter%20Semester/W2/Enterprise%202/Group%20Project/Revenue-Radar/Data%20Scientist-Conversion/mlruns/734111921047683429/0752154913b449c08bec0e6b43a97097/artifacts
+deleted_time: 1713988189724
+end_time: 1713984777171
+entry_point_name: ''
+experiment_id: '734111921047683429'
+lifecycle_stage: deleted
+run_id: 0752154913b449c08bec0e6b43a97097
+run_name: Optimal UnderSampled Logistic Regression Model Recall
+run_uuid: 0752154913b449c08bec0e6b43a97097
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713984767531
+status: 3
+tags: []
+user_id: tashf
