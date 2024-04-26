@@ -1,7 +1,14 @@
 # Revenue Radar
 ![Revenue Radar](Images/logo_dark_mode.png)
 
-## Team Members
+## Team Members ED2
+- Abdulrahman Aroworamimo
+- Angel Oluwole-Rotimi
+- Tashfeen Ahmed
+- Xingchen Luo
+- Yvan Kammelu
+
+## Team Members ED1
 - Abdulrahman Aroworamimo
 - Ammad Sohail
 - Angel Oluwole-Rotimi
