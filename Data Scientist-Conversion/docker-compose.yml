@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  mlflow-server:
+    build: ./Data Scientist-Conversion
+    volumes:
+      - ./mlruns:/app/mlruns
+    ports:
+      - "5000:5000"
+    networks:
+      - app-network
+
+  model-serving:
+    build: ./model_serving
+    depends_on:
+      - mlflow-server
+    volumes:
+      - ./mlruns:/models/mlruns
+    ports:
+      - "1234:1234"
+    networks:
+      - app-network
+
+  fastapi-app:
+    build: ./fastapi_app
+    depends_on:
+      - model-serving
+    ports:
+      - "8000:8000"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
