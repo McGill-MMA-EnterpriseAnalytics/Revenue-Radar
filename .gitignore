@@ -6,3 +6,5 @@ Analyst-User-Dataset.ipynb
 .DS_Store
 Conversion-Analyst-Workspace/preprocessing_notes.txt
 .DS_Store
+*.yaml
+/Conversion-Analyst-Workspace-V2.0/mlruns
