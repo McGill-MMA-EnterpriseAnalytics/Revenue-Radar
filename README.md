@@ -8,6 +8,17 @@
 - Xingchen Luo
 - Yvan Kammelu
 
+## Cybersecurity 
+In developing Revenue Radar for Productionization, we considered the potential cybersecurity threats and vulnerabilities crucial to ensuring the security and integrity of the application and its data. We propose one main cybersecurity application that can address attacks against machine learning systems and common web application vulnerabilities listed by OWASP.
+
+### WAF (Web Application Firewall) - AWS WAF or Cloudflare WAF
+- Justification:
+    1. Protection Against OWASP Threats: A WAF can provide rules to defend against OWASP threats like SQL Injection, XSS (Cross-Site Scripting), and broken authentication. It can filter, monitor, and block HTTP traffic to and from a web application, which helps protect against attacks that exploit application vulnerabilities.
+    2. Customizable Rulesets for ML Security: With WAFs, you can create custom rules that specifically protect against abnormal, malicious HTTP requests that might indicate attempts at evasion or impersonation attacks on ML models. By monitoring the nature and pattern of the requests, WAFs can help mitigate potential poisoning attacks by blocking requests that try to upload malicious data.
+
+----
+
+
 ## Team Members ED1
 - Abdulrahman Aroworamimo
 - Ammad Sohail
