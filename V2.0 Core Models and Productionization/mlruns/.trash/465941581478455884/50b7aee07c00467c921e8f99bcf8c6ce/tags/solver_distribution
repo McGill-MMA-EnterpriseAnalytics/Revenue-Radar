@@ -1,0 +1,1 @@
+CategoricalDistribution(choices=('liblinear', 'lbfgs', 'saga'))

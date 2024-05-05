@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSV Upload for Prediction</title>
+</head>
+<body>
+    <h1>Upload your CSV file for prediction</h1>
+    <form action="/uploadfile/" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit">
+    </form>
+    {% if predictions %}
+        <h2>Predictions</h2>
+        <pre>{{ predictions }}</pre>
+    {% endif %}
+</body>
+</html>
